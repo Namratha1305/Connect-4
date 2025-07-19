@@ -43,8 +43,3 @@ Since this is a static website, there is no complex setup required.
 
 ---
 
-### 📸 Screenshot
-
-*(You can add a screenshot of your running game here to showcase the final product)*
-
-![Connect 4 Game Screenshot](https://i.imgur.com/your-screenshot-url.png)
