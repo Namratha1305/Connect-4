@@ -28,8 +28,8 @@ This project was built using fundamental front-end web technologies:
 
 Since this is a static website, there is no complex setup required.
 
-1.  Make sure all three files (`connect4.html`, `connect4.css`, and `connect4.js`) are in the same folder.
-2.  Simply open the **`connect4.html`** file in any modern web browser (like Chrome, Firefox, or Edge).
+1.  Make sure all three files (`index.html`, `connect4.css`, and `connect4.js`) are in the same folder.
+2.  Simply open the **`index.html`** file in any modern web browser (like Chrome, Firefox, or Edge).
 
 ---
 
